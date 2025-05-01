@@ -1,0 +1,27 @@
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: -webkit-grab;
+    text-decoration: rgb(231, 18, 18);
+    
+}
+
+body {
+    background-size: 700px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 250px;
+    background-color: antiquewhite;
+}
+
+div {
+    color:rgb(5, 94, 94);
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size: 20px;
+
+}
+
+h1 {
+    font-style: italic;
+    
+}
